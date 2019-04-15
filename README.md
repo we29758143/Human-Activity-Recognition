@@ -79,6 +79,7 @@ URL of 3D plot: https://plot.ly/~w29758143/8/magnet-belt/#/
 
 ## total_accel_belt vs total_accel_arm vs total_accel_forearm
 ![image](https://github.com/we29758143/Human-Activity-Recognition/blob/master/total_accel.png)
+
 URL of 3D plot: https://plot.ly/~w29758143/8/total-accel-vs-total-accel-arm-vs-total-accel-forearm/#/
 
 

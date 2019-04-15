@@ -94,11 +94,13 @@ URL of 3D plot: https://plot.ly/~w29758143/12/roll-arm-vs-pitch-arm-vs-yaw-arm/#
 
 ## roll_forearm vs pitch_forearm vs yaw_forearm
 ![image](https://github.com/we29758143/Human-Activity-Recognition/blob/master/forearm.png)
+
 URL of 3D plot: https://plot.ly/~w29758143/14/roll-forearm-vs-pitch-forearm-vs-yaw-forearm/#/
 
 
 ## roll_dumbbell vs pitch_dumbbell vs yaw_dumbbell
 ![image](https://github.com/we29758143/Human-Activity-Recognition/blob/master/dumbbell.png)
+
 URL of 3D plot: https://plot.ly/~w29758143/16/roll-dumbbell-vs-pitch-dumbbell-vs-yaw-dumbbell/#/
 
 Summary: The interesting part of the result is I found out that the x axis, y axis and z axis did not play an important role of predicting the class. No matter it is accelemeter or gyroscope. What gave us more intuition of predicting the class is based on roll, pitch and yaw. Although class "A" and "B" dominate the prediction. We can see that the last four figures make a clear boundry which cluster the same class.

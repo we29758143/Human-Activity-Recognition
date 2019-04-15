@@ -99,7 +99,6 @@ URL of 3D plot: https://plot.ly/~w29758143/12/roll-arm-vs-pitch-arm-vs-yaw-arm/#
 
 URL of 3D plot: https://plot.ly/~w29758143/14/roll-forearm-vs-pitch-forearm-vs-yaw-forearm/#/
 
-
 ## roll_dumbbell vs pitch_dumbbell vs yaw_dumbbell
 ![image](https://github.com/we29758143/Human-Activity-Recognition/blob/master/dumbbell.png)
 

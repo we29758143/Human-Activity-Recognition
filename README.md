@@ -14,6 +14,7 @@ First, Preprocess the data. I drop the data which is nan. The original training 
 
 Second, I used several kind of classifiers to see which gave the best performance. I used KNN, Ada Boost, Gradient Boosting, Gaussian NB, Decesion tree and Random Forest as our classifiers.
 
+
 Thrid, split the training data into training data and validation, which proportion is 9:1(19622:1963). Then implement into the classifiers.
 
 ## Result:
@@ -108,4 +109,5 @@ Summary: The interesting part of the result is I found out that the x axis, y ax
 
 # 5.	Model Application
 The reason I used several classifier not neural network is because Randon Forest Classifier already gave us really high accuracy on validation data. 
-We can use this model to predict several type of use case. Not only in this regard, we can put more device on body. Then imporve athlete performance such as basketball shooting, scoccer, swimming, etc. For example, if we can retrieve a data from an excellent basketball shooter then we can try to understand how the movement of the body will affect shooting rate. 
+We can use this model to predict several type of use case. Not only in this regard, we can put more device on body. Then imporve athlete performance such as basketball shooting, scoccer, swimming, etc. For example, if we can retrieve a data from an excellent basketball shooter then we can try to understand how the movement of the body will affect shooting rate. 	
+	ffffffffffff
